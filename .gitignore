@@ -13,4 +13,4 @@ Thumbs.db
 
 # Игнорируются  файлы .DS_Store
 
-*.DS_Store
+.DS_Store
